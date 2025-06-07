@@ -1,0 +1,3 @@
+[submodule "speech-processing"]
+	path = speech-processing
+	url = git@github.com:robbowland/speech-processing.git
