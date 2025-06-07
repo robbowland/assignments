@@ -1,3 +1,6 @@
 [submodule "speech-processing"]
 	path = speech-processing
 	url = git@github.com:robbowland/speech-processing.git
+[submodule "functional-programming"]
+	path = functional-programming
+	url = git@github.com:robbowland/functional-programming.git
