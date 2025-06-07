@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center"> Assignments from my time at the [University of Sheffield](https://www.sheffield.ac.uk/).</h4>
+<h4 align="center">Assignments from my time at the <a href="https://www.sheffield.ac.uk/">University of Sheffield</a>. </h4>
 
 <br>
 <br>
