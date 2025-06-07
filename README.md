@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-<img src="https://github.com/robbowland/assignments/blob/main/.github/img/heading.png?raw=true" alt="speech-processing" width="600"></a>
+<img src="https://github.com/robbowland/assignments/blob/main/.github/img/heading.png?raw=true" alt="speech-processing" width="500"></a>
   <br>
 </h1>
 
