@@ -8,6 +8,7 @@
 
 <br>
 <br>
+<hr>
 
 #### ⚠️ Academic Integrity Notice
 > *This repository contains code for assigments completed during my studies at the [University of Sheffield](https://www.sheffield.ac.uk/).* <br>
