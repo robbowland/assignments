@@ -10,3 +10,6 @@
 [submodule "text-processing"]
 	path = text-processing
 	url = git@github.com:robbowland/text-processing.git
+[submodule "adaptive-intelligence"]
+	path = adaptive-intelligence
+	url = git@github.com:robbowland/adaptive-intelligence.git
