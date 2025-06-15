@@ -4,3 +4,6 @@
 [submodule "functional-programming"]
 	path = functional-programming
 	url = git@github.com:robbowland/functional-programming.git
+[submodule "internet-of-things"]
+	path = internet-of-things
+	url = git@github.com:robbowland/internet-of-things.git
