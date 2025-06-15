@@ -7,3 +7,6 @@
 [submodule "internet-of-things"]
 	path = internet-of-things
 	url = git@github.com:robbowland/internet-of-things.git
+[submodule "text-processing"]
+	path = text-processing
+	url = git@github.com:robbowland/text-processing.git
